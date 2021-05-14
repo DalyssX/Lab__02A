@@ -1,0 +1,9 @@
+C:\Users\Dalyss\source\repos\Lab__02ALib\bin\Debug\netcoreapp3.1\Lab__02ALib.deps.json
+C:\Users\Dalyss\source\repos\Lab__02ALib\bin\Debug\netcoreapp3.1\Lab__02ALib.dll
+C:\Users\Dalyss\source\repos\Lab__02ALib\bin\Debug\netcoreapp3.1\Lab__02ALib.pdb
+C:\Users\Dalyss\source\repos\Lab__02ALib\obj\Debug\netcoreapp3.1\Lab__02ALib.csprojAssemblyReference.cache
+C:\Users\Dalyss\source\repos\Lab__02ALib\obj\Debug\netcoreapp3.1\Lab__02ALib.AssemblyInfoInputs.cache
+C:\Users\Dalyss\source\repos\Lab__02ALib\obj\Debug\netcoreapp3.1\Lab__02ALib.AssemblyInfo.cs
+C:\Users\Dalyss\source\repos\Lab__02ALib\obj\Debug\netcoreapp3.1\Lab__02ALib.csproj.CoreCompileInputs.cache
+C:\Users\Dalyss\source\repos\Lab__02ALib\obj\Debug\netcoreapp3.1\Lab__02ALib.dll
+C:\Users\Dalyss\source\repos\Lab__02ALib\obj\Debug\netcoreapp3.1\Lab__02ALib.pdb
